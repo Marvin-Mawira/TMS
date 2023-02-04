@@ -27,7 +27,7 @@ def lecturer(cursor, conn, id, name):
 
 
 def courses(cursor, conn, id, abbr, name):
-    query = """insert into lecturer (id, abbr, name) values(?, ?, ?)"""
+    query = """insert into courses (id, abbr, name) values(?, ?, ?)"""
     params = (id, abbr, name)
     cursor.execute(query, params)
     conn.commit()
