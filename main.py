@@ -33,6 +33,7 @@ cursor.execute("""create table if not exists classesunit(
     foreign key(course) references courses(id),
     foreign key(unit) references unit(id));""")
 
+print("DATABASE CREATED SUCCESSFULLY!>")
 conn.commit()
 cursor.close()
 conn.close()
