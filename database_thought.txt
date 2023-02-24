@@ -1,0 +1,65 @@
+    she is given the units for the semester and her work is just to
+input the time the unit will be taught at random
+
+shared units
+a unit can be shared between several courses
+e.g., probability is shared between education ars, ed science, statistics and pure maths
+
+No need to worry about the respective combinations
+all combinations belong to a particular course
+check the foreign key course
+
+DATABASE TABLES
+unit, lecturers, courses, combinations, classes
+
+you must be able to crud all the tables
+
+TABLE UNIT
+fields
+1. name
+2. unit code id/key will be unit code
+3. course (ONE TO MANY RELATIONSHIP)
+two options pertaining to course
+have the course point to the unit so that when seeking you select all courses where in the
+list of units there is a unit with the unit code in question
+or
+one to many relationship where unit points to all courses partaking that unit
+4. name of lecturer (FOREIGN KEY)
+
+change table to units
+have a table of units
+
+
+TABLE LECTURERS
+fields
+1. name
+2. id
+
+TABLE COURSES
+fields
+1. name
+2. id
+
+TABLE COMBINATIONS
+many to many
+referencing course and unit
+
+TABLE CLASSES
+fields
+1. name
+2. capacity
+3. block
+
+
+select name, capacity from classes where block='Northern'
+
+
+CEH102  40
+CEH103  50
+CEH104  60
+CEH105  60
+CEH106  60
+CEH108  35
+CEH301  200
+CEH302  100
+
