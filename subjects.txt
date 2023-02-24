@@ -1,0 +1,11 @@
+mathematics
+english
+kiswahili
+history
+calculus
+basic mathematics
+physics
+chemistry
+business
+ict
+computer science
