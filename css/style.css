@@ -1,0 +1,46 @@
+.home_page {
+    max-width: 90%;
+    padding: 1em;
+    margin: auto;
+    border-width: 1px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5em rgba(39, 44, 30, 0.836);
+    background: linear-gradient(greenyellow, green);
+}
+
+#title {
+    font-size: large;
+    font-family: Verdana;
+    text-align: center;
+    margin-bottom: 0cm;
+}
+
+#initial_display {
+    max-width: 100%;
+    min-height: 80vh;
+    border-radius: 5px;
+    animation: slide 10s steps(1) infinite;
+}
+@keyframes slide {
+    0%{
+        background: url(/images/index/home1.JPG);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    32%{
+        background: url(/images/index/home2.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    64%{
+        background: url(/images/index/home3.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    100%{
+        background: url(/images/index/home7.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8">
+		<meta https-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width", initial-scale="1.0">
+		<title>SEKUCU | Executive</title>
+		<link rel="stylesheet" href="css/registration.css">
+		<script src=https://kit.fontawesome.com/217eed370d.js crossorigin=anonymous></script>
+</head>
+		<body>
+      <div class="navbar">
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="index.html#about-us">About</a>
+          <a href="executive.html">Executive</a>
+          <a href="registration.html">Registration</a>
+          <a href="departments.html">Departments</a>
+          <a href="gallery.html">Gallery</a>
+          <a href="">Blog</a>
+        </nav>
+      </div>
+      <div class="container">
+        <form id="Form1">
+            <h3>MEMBER REGISTRATION</h3>
+            <input type="text" placeholder="Email" required>
+            <input type="password" placeholder="Password" required>
+            <input type="password" placeholder="Confirm Password" required>
+            <div class="btn-box">
+              <button type="button" id="Next1">Next</button>
+            </div>
+        </form>
+
+        <form id="Form2">
+          <h3>JOIN A DEPARTMENT</h3>
+          <div><input type="checkbox">&nbsp; Instrumentalists</div>
+          <div><input type="checkbox">&nbsp; Ushering</div>
+          <div><input type="checkbox">&nbsp; Missions and Evangelism</div>
+          <div><input type="checkbox">&nbsp; ICT and Editorial</div>
+          <div><input type="checkbox">&nbsp; Jars of Clay (JOC)</div>
+          <div><input type="checkbox">&nbsp; Men of Courage (MOC)</div>
+          <div><input type="checkbox">&nbsp; Creative Ministry</div>
+          <div class="btn-box">
+            <button type="button" id="Back1">Back</button>
+            <button type="submit" id="Submit">Submit</button>
+          </div>
+        </form>
+      </div>
+</body>
+<script>
+  var form1 = document.getElementById("Form1");
+  var form2 = document.getElementById("Form2");
+
+  var nxt1 = document.getElementById("Next1");
+  var bck1 = document.getElementById("Back1");
+
+  nxt1.onclick = function(){
+    form1.style.left = "-400px";
+    form2.style.left = "unset";
+  }
+  bck1.onclick = function(){
+    form1.style.left = "unset";
+    form2.style.left = "450px";
+  }
+</script>
+</html>

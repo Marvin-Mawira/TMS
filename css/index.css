@@ -1,0 +1,224 @@
+/* full body */
+body{
+    margin: 0;
+}
+.home_page{
+    font-size: large;
+    background-color: whitesmoke
+}
+
+/* top title and logo */
+#logo{
+    width: 30%;
+    max-height: 30vh;
+    position: relative;
+    left: 35%;
+}
+#logo img{
+    max-width: 100%;
+}
+
+#title{
+    font-family: Arial;
+    text-align: center;
+}
+
+/* navigation bar */
+.navbar{
+    background-color: green;
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.navbar nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.navbar a{
+    color: gold;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+.navbar a:active{
+    transform: scale(1.2);
+    color: yellow;
+    border-radius: 5px;
+}
+
+/* sample images */
+/*
+on click direct to gallery
+*/
+#display_image{
+    margin: 5px;
+    height: 30vh;
+}
+#display_image img{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+/* theme of the semester */
+#theme{
+    width: 95%;
+    text-align: center;
+    border-radius: 20px;
+    height: max-content;
+    padding-top: 15px;
+    margin: 30px auto;
+    box-shadow: 0 2px 2px 2px grey;
+    letter-spacing: 1.2px;
+    background:linear-gradient(rgba(115, 255, 0, 0.753), rgba(0, 189, 41, 0.74));
+}
+#theme h3, #theme h4{
+    font-size: 25px;
+    text-decoration: underline;
+    margin:  10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+#theme p{
+    font-size: 18px;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+/* about us */
+#about-us{
+   background-color: rgba(50, 205, 50, 0.568);
+   padding: 15px;
+   margin: 10px;
+   border-radius: 0 25px 25px 25px;
+}
+#about-us h1, #about-us h3{
+    text-align: center;
+}
+/* mission vision values */
+#values{
+    padding: 10px;
+    padding-left: 15px;
+}
+#values h3{
+    text-align: center;
+}
+#values li{
+    list-style: lower-alpha;
+}
+
+/* weekly program */
+#program{
+    text-align: center;
+    background-color: rgba(153, 205, 50, 0.514);
+    padding: 5px;
+    width: 95%;
+    margin: auto;
+}
+#program h3{
+    text-decoration: underline;
+}
+.timetable{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(35, 151, 0, 0.562);
+    border-radius: 0px 20px 20px 20px;
+    margin-bottom: 10px;
+}
+.timetable h4{
+    align-self: center;
+    display: block;
+    font-size: smaller;
+    font-family: sans-serif;
+}
+
+/* contact us */
+#contact{
+    background-color: beige;
+    padding: 1em 2em;
+    height: max-content;
+    font-size: large;
+}
+#contact h2{
+    text-align: center;
+}
+
+.links{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.social i{
+    padding: 5px;
+    margin-right: 10px;
+}
+.social a{
+    text-decoration: none;
+}
+.connect{
+    width: 100%;
+    height: 40%;
+}
+.connect  img{
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+@media (min-width:600px){
+    .home_page{
+        font-size: 20px;
+        width: 1000px;
+        margin: auto;
+        font-family: sans-serif;
+    }
+
+    /* title */
+    #title{
+        display: flex;
+    }
+    #logo{
+        flex-basis: 10%;
+        left: 0;
+        border-radius: 20%;
+    }
+    #logo img{
+        border-radius: inherit;
+    }
+    #name{
+        flex-basis: 80%;
+    }
+    
+    /* navigation bar */
+    .navbar{
+        border-radius: 0 0 10px 10px;
+    }
+    .navbar a{
+        transition: 300ms;
+    }
+    .navbar a:hover{
+        background-color: rgb(14, 139, 2);
+        transform: scale(1.1);
+    }
+    .navbar a:active{
+        color: red;
+        transform: none;
+        border-radius: 0;
+    }
+    /* image display */
+    #display_image{
+        height: 90vh;
+        cursor:auto;
+    }
+    .last-half{
+        display: flex;
+    }
+    #program{
+        flex-basis: 30%;
+    }
+    #contact{
+        flex-basis: 50%;
+    }
+}
