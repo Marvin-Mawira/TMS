@@ -1,0 +1,63 @@
+SPH 102-Electricity and Magnetism I-Dr. I. Kwembur-B.Ed (Sci)-120-1
+SPH 102-Electricity and Magnetism I-Dr. I. Kwembur-B.Sc (Geo)-120-1
+SPH 104-Mathematics for Physics -Dr. J. Linturi-B.Sc (Geo)-120-2
+SPH 104-Mathematics for Physics -Dr. J. Linturi-B.Ed (Sci) -120-2
+SPH 304- Electrodynamics I -Dr. M. Riara-B.Sc (General)-180-3
+SPH 304- Electrodynamics I -Dr. M. Riara-B.Ed (Sci)-180-3
+SPH 302- Thermodynamics -Dr. M. Riara-B.Sc (General)-150-3
+SPH 302- Thermodynamics -Dr. M. Riara-B.Ed (Sci)-150-3
+SPH 402- Nuclear Physics -Dr. J. Linturi-B.Ed (Sci) - 150-4
+SPH 403- Solid State Physics II- Dr. O. Maweu-B.Ed (Sci)-150-4
+CSC 126 -Physics for Computing- Dr. P. Ngumbi-B.Sc (CS)-120-1
+EME 142- Physics for Engineers II -Dr. L. Munguti-Engs-160-1
+SPH 204- Modern Physics -Dr. L. Munguti-B.Sc (General)-180-2
+SPH 204- Modern Physics -Dr. L. Munguti-B.Ed (Sci)-180-2
+SPH 206 -Introductory Electronics- Dr. P. Ngumbi-B.Sc (General) -15-2
+SPH 302 -Thermodynamics- Dr. M. Riara-B.Sc (General) -15-3
+SPH 307- Solid State Physics -Dr. O. Maweu-B.Sc (General)-70-3
+SPH 403- Nuclear and Radiation Physics-Dr. J. Linturi-B.Sc (General)-150-3
+SPH 409- Physics of Materials -Dr. M. Riara-B.Sc (General)-15-3
+SPH 310 -Computational Physics- Dr. P. Ngumbi- B.Sc (General)-15-3
+ELC 203 -Assembly Language Programming-Dr. O. Maweu-B.Sc (Elec)-40-2
+ELC 204 -Digital Electronics II- Dr. P. Ngumbi-B.Sc (Elec)-40-2
+ELC 202- Transducer theory -Dr. M. Juma-B.Sc (Elec)-40-2
+SMA 221-Vector Analysis Mathematics- Dr. M. Juma- B.Sc (Elec) -12-2
+PHY 221- Quantum Mechanics -Dr. L. Munguti-B.Sc (Elec)-40-2
+ELC 303 -Amplifier Circuits -Dr. I. Kwembur-B.Sc (Elec)-50-3
+SPH 303- Solid State Physics I- Dr. O. Maweu-B.Sc (Elec)-70-3
+ELC 312- Optoelectronic Devices- Dr. P. Ngumbi-B.Sc (Elec)-50-3
+ELC 302- Transistors- Dr. M. Juma-B.Sc (Elec)- 50-3
+SPH 304- Electrodynamics I -Dr. M. Riara-B.Sc (Elec)-180-3
+SPH 304- Electrodynamics I -Dr. M. Riara-B.Ed (Sci)-180-3
+ELC 403- EM Communication -Dr. O. Maweu-B.Sc (Elec)- 50-4
+ELC 402- Integrated Circuit Technology- Dr. O. Maweu -B.Sc (Elec)-50-4
+ELC 411- Microwave Devices -Dr. J. Linturi-B.Sc (Elec)- 50-4
+ELC 405- Analogue Computation and Simulations -Dr. M. Juma-B.Sc (Elec)- 50-4
+ELC 401 -Electronic Project II- Dr. J. Linturi - B.Sc (Elec)-50-4
+SCH 101- General and Inorganic Chemistry -Dr. P. Njuru-B.Sc (General)-250-1
+SCH 101- General and Inorganic Chemistry -Dr. P. Njuru-B.Ed (Sci)-250-1
+SCH 103- General and Physical Chemistry -Dr. G. Andati-B.Sc (General)-250-1
+SCH 103- General and Physical Chemistry -Dr. G. Andati-B.Ed (Sci)-250-1
+SCH 202- The Chemistry of Alkynes and Aromatic Compounds-Prof. C. Wanjala-B.Sc (General)-250-2
+SCH 202- The Chemistry of Alkynes and Aromatic Compounds-Prof. C. Wanjala-B.Ed (Sci)-250-2
+SCH 204 -Introduction to Reaction Kinetics and Electrochemistry-Prof. C. Wanjala-B.Sc (General)-250-2
+SCH 204 -Introduction to Reaction Kinetics and Electrochemistry-Prof. C. Wanjala-B.Ed (Sci)-250-2
+SCH 205- Group Theory and its Chemical Applications-Prof. C. Wanjala-B.Sc (General)- 15-2
+SCH 205- Group Theory and its Chemical Applications-Prof. C. Wanjala-B.Ed (Sci)- 15-2
+SCH 302- Stereochemistry and Synthesis of Organic Compound-Prof. C. Wanjala-B.Sc (General)-120-3
+SCH 302- Stereochemistry and Synthesis of Organic Compound-Prof. C. Wanjala-B.Ed (Sci)-120-3
+SCH 304- Coordination Chemistry -Dr. S. Musyoka -B.Sc (General)-120-3
+SCH 304- Coordination Chemistry -Dr. S. Musyoka -B.Ed (Sci)-120-3
+SCA 304- Computer Application in Chemistry -Dr. S. Musyoka-B.Sc (General)-15-3
+SCH 305 -Amino acids,Carbohydrates and Nucleic acids -Dr. S. Musyoka -B.Sc (General)-155-3
+SCH 306- Spectroscopy as Applied to Organic Chemistry-Dr. S. Musyoka-B.Sc (General)- 15-3
+SCH 307- Extractive Metallurgy -Dr. G. Andati -B.Sc (General)-15-3
+SCH 403 -Surface and Colloid Chemistry-Dr. G. Andati-B.Ed (Sci)- 120-4
+SCH 405- Further Chemical Kinetics and Electrochemistry-Dr. G. Andati-B.Ed (Sci)-120-4
+EME 104- Chemistry for Engineers II- Dr. S. Musyoka -Engs-160-1
+
+
+SPH 202-Electricity & Magnetism II-Dr. L. Munguti-B.Sc(Geo, General & Electronics) & B.Ed (Sci)-150
+SPH 202 -Electricity & Magnetism II -Dr. L. Munguti-B.Sc(Geo, General & Electronics) &B.Ed (Sci)-180
+SPH 401- Electrodynamics -Dr. M. Riara-B.Sc (General,Electronics), B.Ed (Sci)-180
+SPH 202- Electricity & Magnetism II- Dr. L. Munguti-B.Sc(Geo, General &Electronics) ,B.Ed(Sc-180

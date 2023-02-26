@@ -1,0 +1,24 @@
+TCT 102-    Intructional Methods -                      Dr. Kamau - B.Ed (Sci) - 250
+CCS 002-    Fund of Dvt&Their appln to Ke              - Dr. Isika - BA - 134
+CGN 102-    Phys Geo.I -                                Dr. Kauti - B.Ed (Arts) - 78
+SMA 104-    Calculus II -                               Dr. Munene - B.Ed (Arts) - 90
+SPH 104-    Maths for Physics -                         Dr. Linturi - B.Ed (Sci) - 110
+ANS 104-    General zoology -                           Dr. Kasili - B.Ed (Sci) - 120
+CSO 210-    Social Psychology -                         Prof. Mwania - BA  -76
+SPH 304-    Electrodynamics -                           Dr. M. Riara- B.Ed (Sci) - 98
+CPR 401-    Afr. Soc Political Phil -                   Dr. Ogutu - BA - 136
+CKS 406-    Error Analysis -                            Dr. S. Musyoka - BA - 84
+CAN 401    -Applied Anthropology -                      Dr. Muange - BA - 67
+CLT 404-    W.Afr.Poetry & Drama -                      Dr. W. Yenjela - B.Ed (Arts) - 80
+SMA 401-    Topology 1 - Prof. Malonza - B.Ed (Arts) - 140
+SMA 401    -Topology 1 - Prof. Malonza - B.Ed (Sci) - 170
+CPR 403-    Christian Theology in Africa - Dr. Kabugi - BA - 47
+CGN 403-    ASAL - Dr. Mutiso - BA - 87
+CGN 403-    ASAL - Dr. Mutiso - B.Ed (Arts) -87
+CKG 404-    Hist of Political Ideas - Dr. Kioko - B.Ed (Sci) - 45
+CGN 406-    Urban Geography - Dr. Nungu - BA - 97
+CPR 302-    Research Methodology - Dr. Mwangi - B.Ed (Arts) - 89
+CLE 304    -Modern Eng. Drama - Dr. N. Moses - B.Ed (Sci) - 130
+TAP 302    -Educational Administration - Dr. Kihoro - B.Ed (Sci) - 250
+CLE 302    -Semantics - Dr. M. Mwaniki - B.Ed (Sci) - 79
+CKS 302-    Kiswahili Syntax - Dr. E. Chomba - B.Ed (Arts)- 45

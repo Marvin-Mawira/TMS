@@ -1,0 +1,34 @@
+Conditions for assigning
+1. the courses doing the unit to be assigned have no class at the current time
+2. the courses doing the unit have no class immediately before
+3. the lecturer teaching the current unit does not have a class immediately
+    before the current class to teach
+4. the lecturer teaching the current unit does not have another class at
+    the same time to teach
+5. the class capacity to student number ratio should be fair
+6. possibly ensure that the course and lecturer have at most two class sessions
+
+
+Points to remember
+1. Have a day's db-table of classes, units, lecturers and courses
+    engaged in that day
+
+Step 1
+- Read everything in the table sem
+
+Step 2
+- pass lecturer and courses to boolean functions
+
+Step 3
+- if false assign the class to the current time
+
+-- idea --
+
+Pass lecturer, courses and class assigned to a function to
+count number of occurrences in the day
+to prevent overworking students and lecturers
+
+write the details to a database table
+
+
+selecting block

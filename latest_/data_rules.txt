@@ -1,0 +1,45 @@
+-- Use keys in writing the course doing the unit. Like in the above example.
+-- Ensure COMPLETE ACCURACY in every field.
+-- Where there are shared units use '/' to separate the courses sharing the unit
+-- create two separate files, one with the key-value pair for the courses and another
+    with the full list
+-- Do 50 lines at a time to avoid burnout.
+-- Use code editors with their features to improve speed and accuracy
+-- Choose a formatting of the units in the text file that suits you. Once chosen, it will
+    not be changed again, so choose wisely.
+-- We must agree on a penalty of doing shoddy work as it is causing delays and wasting
+    a lot of time.
+    The penalty will also apply to me at the terms stated.
+
+courses = {
+    'The Key':          'The Value'
+    'B.Sc (General)': 'Bachelor of Science General',
+    'B.Ed (Sci)': 'Bachelor of Education Science',
+    'B.Sc (Elec)': 'Bachelor of Science in Electronics',
+    'B.Sc (CS)': 'Bachelor of Science Computer Science',
+    'B.Sc (Geo)': 'Bachelor of Science in Geology',
+    'Engs': 'Engineers',
+    'B.Ed (Arts)': 'Bachelor of Education arts',
+    'B.A': 'Bachelor of Arts',
+    'PhD (Kisw)': 'PhD (Kiswahili Studies)',
+    'B.Econ': 'BACHELOR OF ECONOMICS',
+    'B.Com': 'BACHELOR OF COMMERCE',
+    'B.Sc (MA)': 'BSc Maths (Applied)',
+    'B.Sc CE': 'BSc.in Civil Engineering'
+}
+
+-------------------FORMATING---------------------------------------------------------
+3-B.Ed (Arts)-TPS 302-Guidance and Counseling-560-Prof. Jonathan Mwania
+1-B.Sc CE-EME 104-Chemistry for Engineers II-40-Prof. T. Akuja
+                        OR
+ELC 312- Optoelectronic Devices- Dr. P. Ngumbi-B.Sc (Elec)-50-3
+ELC 302- Transistors- Dr. M. Juma-B.Sc (Elec)- 50-3
+-------------------------------------------------------------------------------------
+
+-------------------------------------AVOID SUCH--------------------------------------
+This is part of what was sent today
+
+2-BSc Maths-SMA 221-Vector AnalysisBSc Maths, ElecBSc (Sci & Arts)-300-Dr.Lagat
+2-BSc Maths (Applied)-SMA 272-Introduction to OptimizationBSc Maths-40-Dr.Kirui
+2-BSc Maths (Applied)-SMA 272-Introduction to OptimizationBSc Econs, Econs &Stats-180-Dr.Kirui
+2-BSc Maths (Applied)-SMA 303-Algebra IBSc Maths (Applied) Y3.2B.Ed (Sci & Arts)-350-Dr.Sakwa

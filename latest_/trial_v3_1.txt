@@ -1,0 +1,114 @@
+┌─────────┬────────────────────────────────────────────────────────┬────────────────┬──────┬───────────────────────┬────────────┬───────┬──────────┬──────┬──────┐
+│  unit   │                       unit_name                        │     course     │ year │          lec          │ student_no │ venue │  block   │ time │ day  │
+├─────────┼────────────────────────────────────────────────────────┼────────────────┼──────┼───────────────────────┼────────────┼───────┼──────────┼──────┼──────┤
+│ CKS 702 │ Classical and Modern Kiswahili Poetry                  │ PhD (Kisw)     │ 1    │ Dr Esther Chomba      │ 2          │ N1    │ Northern │ 7    │ MON  │
+│ CKS 306 │ Creative Writing in Kiswahili                          │ B.A            │ 3    │ Dr Francis Musyoka    │ 5          │ N3    │ Northern │ 7    │ MON  │
+│ SPH 206 │ Introductory Electronics                               │ B.Sc (General) │ 2    │ Dr. P. Ngumbi         │ 15         │ N4    │ Northern │ 7    │ MON  │
+│ SPH 409 │ Physics of Materials                                   │ B.Sc (General) │ 3    │ Dr. M. Riara          │ 15         │ N5    │ Northern │ 7    │ MON  │
+│ SCH 205 │ Group Theory and its Chemical Applications             │ B.Sc (General) │ 2    │ Prof. C. Wanjala      │ 15         │ N7    │ Northern │ 7    │ MON  │
+│ SCH 205 │ Group Theory and its Chemical Applications             │ B.Ed (Sci)     │ 2    │ Prof. C. Wanjala      │ 15         │ N7    │ Northern │ 7    │ MON  │
+│ DAC 102 │ Foundations of Accounting II                           │ B.com          │ 1    │ Ms. Juliet Mutie      │ 30         │ N9    │ Northern │ 7    │ MON  │
+│ EME 122 │ Partial differential Equations                         │ B.Sc CE        │ 2    │ Dr. Judy Wambua       │ 35         │ N10   │ Northern │ 7    │ MON  │
+│ ELC 203 │ Assembly Language Programming                          │ B.Sc (Elec)    │ 2    │ Dr. O. Maweu          │ 40         │ N2    │ Northern │ 7    │ MON  │
+│ EME 104 │ Chemistry for Engineers II                             │ B.Sc CE        │ 1    │ Prof. T. Akuja        │ 40         │ N6    │ Northern │ 7    │ MON  │
+│ EME 104 │ Chemistry for Engineers II                             │ Engs           │ 1    │ Prof. T. Akuja        │ 40         │ N6    │ Northern │ 7    │ MON  │
+│ STA 202 │ Introduction to statistical inference                  │ B.econ         │ 2    │ Dr. Jacob Chege       │ 40         │ N8    │ Northern │ 7    │ MON  │
+│ XET 304 │ History of Economic Though                             │ B.econ         │ 3    │ Ms. Purity Kanja      │ 40         │ N12   │ Northern │ 7    │ MON  │
+│ XEA 402 │ Research Paper                                         │ B.econ         │ 4    │ Dr. Joseph Nzomoi     │ 40         │ LT2   │ Northern │ 7    │ MON  │
+│ SMA 422 │ Methods II                                             │ B.Sc (MA)      │ 2    │ Mr.Kisuke             │ 40         │ N1    │ Northern │ 10   │ MON  │
+│ ELC 303 │ Amplifier Circuits                                     │ B.Sc (Elec)    │ 3    │ Dr. I. Kwembur        │ 50         │ N3    │ Northern │ 10   │ MON  │
+│ ELC 411 │ Microwave Devices                                      │ B.Sc (Elec)    │ 4    │ Dr. J. Linturi        │ 50         │ N4    │ Northern │ 10   │ MON  │
+│ SCH 304 │ Coordination Chemistry                                 │ B.Sc (General) │ 3    │ Dr. S. Musyoka        │ 120        │ N5    │ Northern │ 10   │ MON  │
+│ SCH 304 │ Coordination Chemistry                                 │ B.Ed (Sci)     │ 3    │ Dr. S. Musyoka        │ 120        │ N5    │ Northern │ 10   │ MON  │
+│ SCH 405 │ Further Chemical Kinetics and Electrochemistry         │ B.Ed (Sci)     │ 4    │ Dr. G. Andati         │ 120        │ N7    │ Northern │ 10   │ MON  │
+│ EME 142 │ Physics for Engineers II                               │ B.Sc CE        │ 1    │ Dr. L. Munguti        │ 160        │ N12   │ Northern │ 10   │ MON  │
+│ EME 142 │ Physics for Engineers II                               │ Engs           │ 1    │ Dr. L. Munguti        │ 160        │ N12   │ Northern │ 10   │ MON  │
+│ SCH 101 │ General and Inorganic Chemistry                        │ B.Sc (General) │ 1    │ Dr. P. Njuru          │ 250        │ N8    │ Northern │ 10   │ MON  │
+│ SCH 101 │ General and Inorganic Chemistry                        │ B.Ed (Sci)     │ 1    │ Dr. P. Njuru          │ 250        │ N8    │ Northern │ 10   │ MON  │
+│ TPS 202 │ Psychology of Learning and Teaching                    │ B.Ed (Sci)     │ 2    │ Ms. Jackline Kavutha  │ 470        │ LT2   │ Northern │ 10   │ MON  │
+│ TPS 202 │ Psychology of Learning and Teaching                    │ B.Ed (Arts)    │ 2    │ Ms. Jackline Kavutha  │ 470        │ LT2   │ Northern │ 10   │ MON  │
+│ CKS 704 │ Contact Linguistics in Kiswahili                       │ PhD (Kisw)     │ 1    │ Dr Sarah Ngesu        │ 2          │ N1    │ Northern │ 1    │ MON  │
+│ SMA 221 │ Vector Analysis Mathematics                            │ B.Sc (Elec)    │ 2    │ Dr. M. Juma           │ 12         │ N3    │ Northern │ 1    │ MON  │
+│ SPH 310 │ Computational Physics                                  │ B.Sc (General) │ 3    │ Dr. P. Ngumbi         │ 15         │ N4    │ Northern │ 1    │ MON  │
+│ XEQ 102 │ Economic Statistics I                                  │ B.com          │ 1    │ Ms. Juliet Mutie      │ 30         │ N5    │ Northern │ 1    │ MON  │
+│ ECE 202 │ Fluid Mechanics II                                     │ B.Sc CE        │ 2    │ Ms. Irene Koima       │ 35         │ N7    │ Northern │ 1    │ MON  │
+│ EME 121 │ Algebra for Engineers                                  │ B.Sc CE        │ 1    │ Dr. B. K. Muli        │ 40         │ N9    │ Northern │ 1    │ MON  │
+│ DFI 202 │ Financial Management                                   │ B.econ         │ 2    │ Dr. Jacob Chege       │ 40         │ N10   │ Northern │ 1    │ MON  │
+│ XEA 302 │ Development Planning                                   │ B.econ         │ 3    │ Ms. Purity Kanja      │ 40         │ N2    │ Northern │ 1    │ MON  │
+│ XEA 406 │ Poverty and Development                                │ B.econ         │ 4    │ Dr. Kelvin Wachira    │ 40         │ N6    │ Northern │ 1    │ MON  │
+│ SCH 202 │ The Chemistry of Alkynes and Aromatic Compounds        │ B.Sc (General) │ 2    │ Prof. C. Wanjala      │ 250        │ N12   │ Northern │ 1    │ MON  │
+│ SCH 202 │ The Chemistry of Alkynes and Aromatic Compounds        │ B.Ed (Sci)     │ 2    │ Prof. C. Wanjala      │ 250        │ N12   │ Northern │ 1    │ MON  │
+│ TPS 302 │ Guidance and Counseling                                │ B.Ed (Sci)     │ 3    │ Prof. Jonathan Mwania │ 560        │ LT2   │ Northern │ 1    │ MON  │
+│ TPS 302 │ Guidance and Counseling                                │ B.Ed (Arts)    │ 3    │ Prof. Jonathan Mwania │ 560        │ LT2   │ Northern │ 1    │ MON  │
+│ SMA 420 │ Mathematical Modelling                                 │ B.Sc (MA)      │ 2    │ Dr.Lagat              │ 40         │ N1    │ Northern │ 4    │ MON  │
+│ ELC 403 │ EM Communication                                       │ B.Sc (Elec)    │ 4    │ Dr. O. Maweu          │ 50         │ N3    │ Northern │ 4    │ MON  │
+│ SPH 102 │ Electricity and Magnetism I                            │ B.Ed (Sci)     │ 1    │ Dr. I. Kwembur        │ 120        │ N4    │ Northern │ 4    │ MON  │
+│ SPH 102 │ Electricity and Magnetism I                            │ B.Sc (Geo)     │ 1    │ Dr. I. Kwembur        │ 120        │ N4    │ Northern │ 4    │ MON  │
+│ SPH 104 │ Mathematics for Physics                                │ B.Sc (Geo)     │ 2    │ Dr. J. Linturi        │ 120        │ N5    │ Northern │ 4    │ MON  │
+│ SPH 104 │ Mathematics for Physics                                │ B.Ed (Sci)     │ 2    │ Dr. J. Linturi        │ 120        │ N5    │ Northern │ 4    │ MON  │
+│ SCH 403 │ Surface and Colloid Chemistry                          │ B.Ed (Sci)     │ 4    │ Dr. G. Andati         │ 120        │ N7    │ Northern │ 4    │ MON  │
+│ SPH 302 │ Thermodynamics                                         │ B.Sc (General) │ 3    │ Dr. M. Riara          │ 150        │ N9    │ Northern │ 4    │ MON  │
+│ SPH 302 │ Thermodynamics                                         │ B.Sc (General) │ 3    │ Dr. M. Riara          │ 150        │ N9    │ Northern │ 4    │ MON  │
+│ SPH 302 │ Thermodynamics                                         │ B.Ed (Sci)     │ 3    │ Dr. M. Riara          │ 150        │ N9    │ Northern │ 4    │ MON  │
+│ SPH 204 │ Modern Physics                                         │ B.Sc (General) │ 2    │ Dr. L. Munguti        │ 180        │ N12   │ Northern │ 4    │ MON  │
+│ SPH 204 │ Modern Physics                                         │ B.Ed (Sci)     │ 2    │ Dr. L. Munguti        │ 180        │ N12   │ Northern │ 4    │ MON  │
+│ CKS 706 │ Development of Kiswahili Novel and Novella             │ PhD (Kisw)     │ 1    │ Dr Francis Musyoka    │ 2          │ N1    │ Northern │ 7    │ TUE  │
+│ SCA 304 │ Computer Application in Chemistry                      │ B.Sc (General) │ 3    │ Dr. S. Musyoka        │ 15         │ N3    │ Northern │ 7    │ TUE  │
+│ DBA 102 │ Principles of Management                               │ B.com          │ 1    │ Ms. Juliet Mutie      │ 30         │ N4    │ Northern │ 7    │ TUE  │
+│ ECE 212 │ Strength of Materials II                               │ B.Sc CE        │ 2    │ Dr. J. Kilungo        │ 35         │ N5    │ Northern │ 7    │ TUE  │
+│ ELC 204 │ Digital Electronics II                                 │ B.Sc (Elec)    │ 2    │ Dr. P. Ngumbi         │ 40         │ N7    │ Northern │ 7    │ TUE  │
+│ EME 231 │ Calculus II                                            │ B.Sc CE        │ 1    │ Ms. Irene Koima       │ 40         │ N9    │ Northern │ 7    │ TUE  │
+│ XEQ 208 │ Economic Statistics III                                │ B.econ         │ 2    │ Dr. Jacob Chege       │ 40         │ N10   │ Northern │ 7    │ TUE  │
+│ XEA 308 │ Financial Markets and Institutions                     │ B.econ         │ 3    │ Dr. Michael Wahome    │ 40         │ N2    │ Northern │ 7    │ TUE  │
+│ XEA 408 │ Public Finance & Fiscal Policy                         │ B.econ         │ 4    │ Ms. Purity Kanja      │ 40         │ N6    │ Northern │ 7    │ TUE  │
+│ ELC 302 │ Transistors                                            │ B.Sc (Elec)    │ 3    │ Dr. M. Juma           │ 50         │ N8    │ Northern │ 7    │ TUE  │
+│ SCH 204 │ Introduction to Reaction Kinetics and Electrochemistry │ B.Sc (General) │ 2    │ Prof. C. Wanjala      │ 250        │ N12   │ Northern │ 7    │ TUE  │
+│ SCH 204 │ Introduction to Reaction Kinetics and Electrochemistry │ B.Ed (Sci)     │ 2    │ Prof. C. Wanjala      │ 250        │ N12   │ Northern │ 7    │ TUE  │
+│ SMA 423 │ Numerical Analysis II                                  │ B.Sc (MA)      │ 2    │ Dr.Lagat              │ 40         │ N1    │ Northern │ 10   │ TUE  │
+│ ELC 402 │ Integrated Circuit Technology                          │ B.Sc (Elec)    │ 4    │ Dr. O. Maweu          │ 50         │ N3    │ Northern │ 10   │ TUE  │
+│ SPH 402 │ Nuclear Physics                                        │ B.Ed (Sci)     │ 4    │ Dr. J. Linturi        │ 150        │ N4    │ Northern │ 10   │ TUE  │
+│ SPH 304 │ Electrodynamics I                                      │ B.Sc (General) │ 3    │ Dr. M. Riara          │ 180        │ N12   │ Northern │ 10   │ TUE  │
+│ SPH 304 │ Electrodynamics I                                      │ B.Ed (Sci)     │ 3    │ Dr. M. Riara          │ 180        │ N12   │ Northern │ 10   │ TUE  │
+│ SPH 304 │ Electrodynamics I                                      │ B.Sc (Elec)    │ 3    │ Dr. M. Riara          │ 180        │ N12   │ Northern │ 10   │ TUE  │
+│ SPH 304 │ Electrodynamics I                                      │ B.Ed (Sci)     │ 3    │ Dr. M. Riara          │ 180        │ N12   │ Northern │ 10   │ TUE  │
+│ SCH 103 │ General and Physical Chemistry                         │ B.Sc (General) │ 1    │ Dr. G. Andati         │ 250        │ N8    │ Northern │ 10   │ TUE  │
+│ SCH 103 │ General and Physical Chemistry                         │ B.Ed (Sci)     │ 1    │ Dr. G. Andati         │ 250        │ N8    │ Northern │ 10   │ TUE  │
+│ CKS 708 │ Playwriting and Modern Theatre Arts in Kiswahili       │ PhD (Kisw)     │ 1    │ Dr Esther Chomba      │ 2          │ N1    │ Northern │ 1    │ TUE  │
+│ SCH 306 │ Spectroscopy as Applied to Organic Chemistry           │ B.Sc (General) │ 3    │ Dr. S. Musyoka        │ 15         │ N3    │ Northern │ 1    │ TUE  │
+│ SMA 104 │ Calculus II                                            │ B.com          │ 1    │ Ms. Juliet Mutie      │ 30         │ N4    │ Northern │ 1    │ TUE  │
+│ ECE 222 │ Engineering Surveying II                               │ B.Sc CE        │ 2    │ Prof. T. Akuja        │ 35         │ N5    │ Northern │ 1    │ TUE  │
+│ ELC 202 │ Transducer theory                                      │ B.Sc (Elec)    │ 2    │ Dr. M. Juma           │ 40         │ N7    │ Northern │ 1    │ TUE  │
+│ EME 152 │ Engineering Drawing II                                 │ B.Sc CE        │ 1    │ Prof. T. Kanui        │ 40         │ N9    │ Northern │ 1    │ TUE  │
+│ XEA 306 │ Agriculture Development and Policy                     │ B.econ         │ 3    │ Dr. Onesmus Mbaabu    │ 40         │ N10   │ Northern │ 1    │ TUE  │
+│ XEA 409 │ Economics of Industry                                  │ B.econ         │ 4    │ Dr. Jacob Chege       │ 40         │ N2    │ Northern │ 1    │ TUE  │
+│ ELC 312 │ Optoelectronic Devices                                 │ B.Sc (Elec)    │ 3    │ Dr. P. Ngumbi         │ 50         │ N6    │ Northern │ 1    │ TUE  │
+│ ELC 401 │ Electronic Project II                                  │ B.Sc (Elec)    │ 4    │ Dr. J. Linturi        │ 50         │ N1    │ Northern │ 4    │ TUE  │
+│ SCI 112 │ Introduction to Computer                               │ B.com          │ 2    │ mogire                │ 80         │ N3    │ Northern │ 4    │ TUE  │
+│ SCI 112 │ Introduction to Computer                               │ B.econ         │ 2    │ mogire                │ 80         │ N3    │ Northern │ 4    │ TUE  │
+│ SCI 112 │ Introduction to Computer                               │ B.Sc (MA)      │ 2    │ mogire                │ 80         │ N3    │ Northern │ 4    │ TUE  │
+│ SCH 302 │ Stereochemistry and Synthesis of Organic Compound      │ B.Sc (General) │ 3    │ Prof. C. Wanjala      │ 120        │ N4    │ Northern │ 4    │ TUE  │
+│ SCH 302 │ Stereochemistry and Synthesis of Organic Compound      │ B.Ed (Sci)     │ 3    │ Prof. C. Wanjala      │ 120        │ N4    │ Northern │ 4    │ TUE  │
+│ SPH 403 │ Solid State Physics II                                 │ B.Ed (Sci)     │ 4    │ Dr. O. Maweu          │ 150        │ N5    │ Northern │ 4    │ TUE  │
+│ SPH 403 │ Solid State Physics II                                 │ B.Sc (General) │ 4    │ Dr. O. Maweu          │ 150        │ N5    │ Northern │ 4    │ TUE  │
+│ CKS 711 │ Proposal Writing and Seminars                          │ PhD (Kisw)     │ 1    │ Dr Sarah Ngesu        │ 2          │ N1    │ Northern │ 7    │ WED  │
+│ SCH 307 │ Extractive Metallurgy                                  │ B.Sc (General) │ 3    │ Dr. G. Andati         │ 15         │ N3    │ Northern │ 7    │ WED  │
+│ ECE 232 │ Theory of Structures II                                │ B.Sc CE        │ 2    │ Dr. Judy Wambua       │ 35         │ N4    │ Northern │ 7    │ WED  │
+│ PHY 221 │ Quantum Mechanics                                      │ B.Sc (Elec)    │ 2    │ Dr. L. Munguti        │ 40         │ N5    │ Northern │ 7    │ WED  │
+│ EME 132 │ Workshop Technology & Practice                         │ B.Sc CE        │ 1    │ Dr. B. K. Muli        │ 40         │ N7    │ Northern │ 7    │ WED  │
+│ XET 306 │ Welfare Economics                                      │ B.econ         │ 3    │ Ms. Juliet Mutie      │ 40         │ N9    │ Northern │ 7    │ WED  │
+│ CSC 126 │ Physics for Computing                                  │ B.Sc (CS)      │ 1    │ Dr. P. Ngumbi         │ 120        │ N10   │ Northern │ 7    │ WED  │
+│ ELC 405 │ Analogue Computation and Simulations                   │ B.Sc (Elec)    │ 4    │ Dr. M. Juma           │ 50         │ N1    │ Northern │ 10   │ WED  │
+│ SPH 303 │ Solid State Physics I                                  │ B.Sc (Elec)    │ 3    │ Dr. O. Maweu          │ 70         │ N3    │ Northern │ 10   │ WED  │
+│ SMA 401 │ Topology I                                             │ B.Sc (MA)      │ 2    │ Prof.Malonza          │ 200        │ N12   │ Northern │ 10   │ WED  │
+│ SMA 401 │ Topology I                                             │ B.Sc (MA)      │ 2    │ Prof.Malonza          │ 200        │ N12   │ Northern │ 10   │ WED  │
+│ ECE 242 │ Environmental Chemistry & Microbiology                 │ B.Sc CE        │ 2    │ Ms. Irene Koima       │ 35         │ N1    │ Northern │ 1    │ WED  │
+│ ECE 102 │ Engineering Geology                                    │ B.Sc CE        │ 1    │ Dr. J. Kilungo        │ 40         │ N3    │ Northern │ 1    │ WED  │
+│ AEC 410 │ Institutional Economics                                │ B.econ         │ 4    │ Ms. Juliet Mutie      │ 40         │ N4    │ Northern │ 1    │ WED  │
+│ SCH 305 │ Amino acids,Carbohydrates and Nucleic acids            │ B.Sc (General) │ 3    │ Dr. S. Musyoka        │ 155        │ N12   │ Northern │ 1    │ WED  │
+│ SMA 310 │ Ordinary Differential Equations II                     │ B.Sc (MA)      │ 2    │ Dr.C. Munene          │ 100        │ N1    │ Northern │ 4    │ WED  │
+│ EME 251 │ Computer Programming                                   │ B.Sc CE        │ 2    │ Ms. Irene Koima       │ 35         │ N1    │ Northern │ 7    │ THUR │
+│ ECE 112 │ Material Science                                       │ B.Sc CE        │ 1    │ Ms. Peggy Ngila       │ 40         │ N3    │ Northern │ 7    │ THUR │
+│ SPH 307 │ Solid State Physics                                    │ B.Sc (General) │ 3    │ Dr. O. Maweu          │ 70         │ N4    │ Northern │ 7    │ THUR │
+│ SMA 303 │ Algebra I                                              │ B.Sc (MA)      │ 2    │ Dr.Sakwa              │ 350        │ LT2   │ Northern │ 10   │ THUR │
+│ CCS 009 │ Elements of Economics                                  │ B.Sc CE        │ 2    │ Dr. Judy Wambua       │ 35         │ N1    │ Northern │ 1    │ THUR │
+└─────────┴────────────────────────────────────────────────────────┴────────────────┴──────┴───────────────────────┴────────────┴───────┴──────────┴──────┴──────┘

@@ -1,0 +1,130 @@
+LT2
+760 -Tuition Block II
+N1
+50 -Tuition Block II
+N2
+80 -Tuition Block II
+N3
+50 -Tuition Block II
+N4
+50 -Tuition Block II
+N5
+50 -Tuition Block II
+N6
+80 -Tuition Block II
+N7
+50 -Tuition Block II
+N8
+80 -Tuition Block II
+N9
+50 -Tuition Block II
+N10
+50 -Tuition Block II
+N12
+200 -Tuition Block II
+LT1
+250 -Tuition Block I
+TBH1
+50-Tuition Block I
+TBH2
+50-Tuition Block I
+TBH3
+50-Tuition Block I
+TBH4
+80-Tuition Block I
+TBH5
+50-Tuition Block I
+TBH6
+50-Tuition Block I
+TBH7
+50-Tuition Block I
+TBH8
+80-Tuition Block I
+TBH9
+80-Tuition Block I
+CEH102
+40-School of Humanities & Social Sciences block
+CEH103
+50-School of Humanities & Social Sciences block
+CEH104
+60-School of Humanities & Social Sciences block
+CEH105
+60-School of Humanities & Social Sciences block
+CEH106
+60-School of Humanities & Social Sciences block
+CEH108
+35-School of Humanities & Social Sciences block
+CEH301
+200-School of Humanities & Social Sciences block
+CEH302
+100-School of Humanities & Social Sciences block
+SKC101
+63-Kitui Town Campus
+SKC102
+42-Kitui Town Campus
+SKC103
+25-Kitui Town Campus
+SKC104
+40-Kitui Town Campus
+SKC105
+60-Kitui Town Campus
+SKC106
+63-Kitui Town Campus
+SKC107
+66-Kitui Town Campus
+SKC201
+56-Kitui Town Campus
+SKC202
+56-Kitui Town Campus
+SKC203
+35-Kitui Town Campus
+SKC204
+35-Kitui Town Campus
+SKLT
+90-Kitui Town Campus
+Lecture Hall 1
+40-Mtito Andei Campus
+Lecture Hall 2
+40-Mtito Andei Campus
+Lecture Hall 3
+40-Mtito Andei Campus
+Lecture Hall 4
+40-Mtito Andei Campus
+SWC001
+105-Wote Town Campus
+SWC002
+25-Wote Town Campus
+SWC003
+25-Wote Town Campus
+SWC004
+25-Wote Town Campus
+SWC005
+45-Wote Town Campus
+SWC006
+35-Wote Town Campus
+SWC007
+35-Wote Town Campus
+SWC008
+25-Wote Town Campus
+SWC009
+25-Wote Town Campus
+SWC110
+45-Wote Town Campus
+SWC111
+50-Wote Town Campus
+SWC112
+48-Wote Town Campus
+SWC113
+25-Wote Town Campus
+SWC114
+7-Wote Town Campus
+SWC115
+20-Wote Town Campus
+SWC116
+45-Wote Town Campus
+SWC117
+35-Wote Town Campus
+SWC118
+35-Wote Town Campus
+SWC119
+45-Wote Town Campus
