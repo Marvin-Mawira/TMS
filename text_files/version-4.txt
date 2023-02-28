@@ -1,0 +1,119 @@
+2-B.Sc (Geo)-SPS 202-Electricity of Learning-300-Ms. Harriet Songa
+1-B.Sc (Geo)-SPH 102-Electricity and Magnetism I-120-Dr. I. Kwembur
+2-B.Sc (Geo)-SPH 104-Mathematics for Physics-120-Dr. J. Linturi
+2-B.Ed (Sci)-SPH 104-Mathematics for Physics-120-Dr. J. Linturi
+3-B.Sc (General)-SPH 304- Electrodynamics I-180-Dr. M. Riara
+3-B.Ed (Sci)-SPH 304- Electrodynamics I-180-Dr. M. Riara
+3-B.Sc (General)-SPH 302- Thermodynamics-150-Dr. M. Riara
+3-B.Ed (Sci)-SPH 302- Thermodynamics-150-Dr. M. Riara
+4-B.Ed (Sci)-SPH 402- Nuclear Physics-150-Dr. J. Linturi
+4-B.Ed (Sci)-SPH 403- Solid State Physics II-150-Dr. O. Maweu
+4-B.Sc (CS)-CSC 126 -Physics for Computing-120-Dr. P. Ngumbi
+2-B.Sc (General)-EME 142- Physics for Engineers II -Dr. L. Munguti
+2-B.Sc (General)-SPH 204- Modern Physics-180-Dr. L. Munguti
+2-B.Ed (Sci)-SPH 204- Modern Physics-180-Dr. L. Munguti
+3-B.Sc (General)-SPH 206 -Introductory Electronics-150-Dr. P. Ngumbi
+3-B.Sc (General)-SPH 302 -Thermodynamics-15-Dr. M. Riara
+3-B.Sc (General)-SPH 307- Solid State Physics-70-Dr. O. Maweu
+3-B.Sc (General)-SPH 403- Nuclear and Radiation Physics-150-Dr. J. Linturi
+3-B.Sc (General)-SPH 409- Physics of Materials-15-Dr. M. Riara
+3-B.Sc (General)-SPH 310 -Computational Physics-15-Dr. P. Ngumbi
+3-B.Sc (General)-ELC 203 -Assembly Language Programming-40-Dr. O. Maweu
+2-B.Sc (Elec)-ELC 204 -Digital Electronics II-40-Dr. P. Ngumbi
+2-B.Sc (Elec)-ELC 202- Transducer theory-40-Dr. M. Juma
+2-B.Sc (Elec)-SMA 221-Vector Analysis Mathematics-12-Dr. M. Juma
+2-B.Sc (Elec)-PHY 221-Quantum Mechanics-40-Dr. L. Munguti
+3-B.Sc (Elec)-ELC 303 -Amplifier Circuits-50-Dr. I. Kwembur
+3-B.Sc (Elec)-SPH 303- Solid State Physics I-70-Dr. O. Maweu
+3-B.Sc (Elec)-ELC 312- Optoelectronic Devices-50-Dr. P. Ngumbi
+3-B.Sc (Elec)-ELC 302- Transistors-50-Dr. M. Juma
+3-B.Sc (Elec)-SPH 304- Electrodynamics I-180-Dr. M. Riara
+3-B.Ed (Sci)-SPH 304- Electrodynamics I-180-Dr. M. Riara
+4-B.Sc (Elec)-ELC 403- EM Communication-180-Dr. O. Maweu
+4-B.Sc (Elec)-ELC 402- Integrated Circuit Technology-50-Dr. O. Maweu
+4-B.Sc (Elec)-ELC 411- Microwave Devices-50-Dr. J. Linturi
+4-B.Sc (Elec)-ELC 405- Analogue Computation and Simulations-50-Dr. M. Juma
+4-B.Sc (Elec)-ELC 401 -Electronic Project II-50-Dr. J. Linturi
+1-B.Sc (General)-SCH 101- General and Inorganic Chemistry-250-Dr. P. Njuru
+1-B.Sc (General)-SCH 101- General and Inorganic Chemistry-250-Dr. P. Njuru
+1-B.Sc (General)-SCH 103- General and Physical Chemistry-250-Dr. G. Andati
+2-B.Ed (Sci)-SCH 202- The Chemistry of Alkynes and Aromatic Compounds-250-Prof. C. Wanjala
+2-B.Ed (Sci)-SCH 204 -Introduction to Reaction Kinetics and Electrochemistry-150-Prof. C. Wanjala
+2-B.Ed (Sci)-SCH 205- Group Theory and its Chemical Applications-150-Prof. C. Wanjala
+2-B.Ed (Sci)-SCH 205- Group Theory and its Chemical Applications-210-Prof. C. Wanjala
+2-B.Sc (General)-SCH 202- Stereochemistry and Synthesis of Organic Compound-380-Prof. C. Wanjala
+3-B.Ed (Sci)-SCH 302- Stereochemistry and Synthesis of Organic Compound-360-Prof. C. Wanjala
+3-B.Sc (General)-SCH 304- Coordination Chemistry-300-Dr. S. Musyoka
+3-B.Ed (Sci)-SCH 304- Coordination Chemistry-255-Dr. S. Musyoka
+3-B.Sc (General)-SCA 304- Computer Application in Chemistry-30-Dr. S. Musyoka
+3-B.Sc (General)-SCH 305 -Amino acids,Carbohydrates and Nucleic acids-30-Dr. S. Musyoka
+3-B.Sc (General)-SCH 306- Spectroscopy as Applied to Organic Chemistry-30-Dr. S. Musyoka
+3-B.Sc (General)-SCH 307- Extractive Metallurgy-60-Dr. G. Andati
+4-B.Ed (Sci)-SCH 403 -Surface and Colloid Chemistry-70-Dr. G. Andati
+4-B.Sc (General)-SCH 405- Further Chemical Kinetics and Electrochemistry-70-Dr. G. Andati
+1-B.Sc (General)-EME 104- Chemistry for Engineers II-90-Dr. S. Musyoka
+2-B.Econ- XET 202- Intermediate Macroeconomics- 40 - Ms. Purity Kanja
+2-B.Econ-SMA 204 -Linear Algebra II- 40 - Dr. Jacob Chege
+2-B.Econ-SMA 272- Introduction to Optimization -40 - Dr. Jacob Chege
+2-B.Econ-STA 202- Introduction to statistical inference-40 - Dr. Jacob Chege
+2-B.Econ-DFI 202- Financial Management -40 - Dr. Jacob Chege
+2-B.Econ-XEQ 208- Economic Statistics III- 40- Dr. Jacob Chege
+3-B.Econ-XET 302 -Advanced Macroeconomics -40 -Dr. Onesmus Mbaabu
+3-B.Econ-XET 304 -History of Economic Thought- 40 -Ms. Purity Kanja
+3-B.Econ-XEA 302- Development Planning- 40- Ms. Purity Kanja
+3-B.Econ-XET 306 -Welfare Economics- 40- Ms. Juliet Mutie
+3-B.Econ-XEA 308- Financial Markets and Institutions- 40 - Dr. Michael Wahome
+3-B.Econ-XEA 306 -Agriculture Development and Policy-40-Dr. Onesmus Mbaabu
+4-B.Econ- XEQ 402 -Introductory Econometrics II -40 - Dr. Jacob Chege
+4-B.Econ-XEA 408 -Public Finance & Fiscal Policy- 40 - Ms. Purity Kanja
+4-B.Econ-XEA 402- Research Paper -40 - Dr. Joseph Nzomoi
+4-B.Econ-AEC 410- Institutional Economics- 40 - Ms. Juliet Mutie
+4-B.Econ-XEA 409- Economics of Industry- 40- Dr. Jacob Chege
+4-B.Econ-XEA 406- Poverty and Development- 40- Dr. Kelvin Wachira
+1-B.Econ-SCI 112- Introduction to Computer -40 - Mr. Japheth Mutua
+1-B.Econ&Stat-XET 102- Introduction to Macroeconomics -30- Mr. Japheth Mutua
+1-B.Econ&Stat-DAC 102- Foundations of Accounting II -30 - Mr. Japheth Mutua
+1-B.Econ&Stat-XEQ 102- Economic Statistics I- 30- Ms. Juliet Mutie
+1-B.Econ&Stat-DBA 102- Principles of Management -30 - Ms. Juliet Mutie
+1-B.Econ&Stat-SMA 104- Calculus II -30 - Ms. Juliet Mutie
+1-B.Econ&Stat-SCI 112- Introduction to Computer -30 - Ms. Juliet Mutie
+2-B.Econ&Stat-XET 202- Intermediate Macroeconomics -100 -Ms. Purity Kanja
+2-B.Econ&Stat-SMA 204 -Linear Algebra II -100 - Ms. Juliet Mutie
+2-B.Econ&Stat-SMA 272- Introduction to Optimization -100 - Ms. Purity Kanja
+2-B.Econ&Stat-STA 202 -Introduction to statistical Inference -100 - Ms. Purity Kanja
+2-B.Econ&Stat-DFI 202 -Financial Management -100- Ms. Purity Kanja
+2-B.Econ&Stat-XEQ 208 -Economic Statistics III -100 - Dr. Jacob Chege
+3-B.Econ&Stat-XET 302- Advanced Macroeconomics- 120 - Dr. Onesmus Mbaabu
+3-B.Econ&Stat-XEA 302- Development Planning- 120 -Ms. Purity Kanja
+3-B.Econ&Stat-STA 302- Linear Modeling I- 120 -Ms. Purity Kanja 
+3-B.Econ&Stat-STA 318- Statistical Inference I -120 -Ms. Purity Kanja
+3-B.Econ&Stat-STA 308- Sample Survey Theory and Methods I-120 - Dr. Joseph Nzomoi
+3-B.Econ&Stat-XET 306 -Welfare Economics -120 - Ms. Juliet Mutie
+4-B.Econ&Stat-XEA 408 -Public Finance & Fiscal Policy -130 - Ms. Purity Kanja
+4-B.Econ&Stat-XEA 402 -Research Paper -130 -Dr. Joseph Nzomoi
+4-B.Econ&Stat-STA 406- Applied Stochastic Process -130 -Dr. Joseph Nzomoi
+4-B.Econ&Stat-STA 422 -Stochastic Models for Social Processes-130 - Dr. Jacob Chege 
+4-B.Econ&Stat-STA 410 -Sample Survey Theory and Methods II-130 - Dr. Jacob Chege
+4-B.Econ&Stat-XEA 409- Economics of Industry 130 - Dr. Jacob Chege
+4-B.Econ&Stat-AEC 410- Institutional Economics 130- Ms. Juliet Mutie
+4-B.Econ&Stat-XEA 406- Poverty and Development 130- Dr. Kelvin Wachira
+4-B.Econ&Stat-SCI 112 -Introduction to Computer 130 - - Ms. Juliet Mutie
+1-B.Bpp-XET 102 -Introduction to Macroeconomics-30 - Mr. Japheth Mutua
+1-B.Com- XET 102- Introduction to Macroeconomics-60 - Mr. Japheth Mutua
+2- B.Com -XET 202 -Intermediate Macroeconomics-137 - Ms. Purity Kanja
+4- B.Com- XEA 408-Public Finance and Fiscal Policy-73 - Ms. Purity Kanja
+1- B.IT-XET 102 -Introduction to Macroeconomics-9 - Mr. Japheth Mutua
+5- M.BAdmin-DIB 501-Managerial Economics-7 - Dr. Onesmus Mbaabu
+2- B.Com -DIB 201- Economics for Business Decisions-6 - Dr. Joseph Nzomoi
+2- B.Com -DMS 201 -Advanced Business Statistics-6 -Dr. Jacob Chege
+1- B.Com -XET 101- Introduction to Microeconomics-70 - Mr. Japheth Mutua
+2- B.Com -CCS 009- Elements of Economics-8- Ms. Juliet Mutua
+2- B.Com -CCS 009- Elements of Economics-35 -Ms. Juliet Mutie
+1- B.Com -XET 102- Introduction to Macroeconomics-120 - Mr. Japheth Mutua
+2- B.Com -XET 202 -Intermediate Macroeconomics-110 - Mr. Japheth Mutua
+3- B.Com -XEA 302- Development Planning-155 - Ms. Juliet Mutie
+4- B.Com -XEA 408 -Public Finance and Fiscal Policy-56 -Mr. Japheth Mutua
+2-B.Sc(Geo, General & Elec) & B.Ed (Sci)-SPH 202-Electricity & Magnetism II-150-Dr. L. Munguti
+3-B.Sc(Geo, General & Elec) & B.Ed (Sci)-SPH 302 -Electricity & Magnetism II-150-Dr. L. Munguti
+4-B.Sc (General,Elec) & B.Ed (Sci)-SPH 401- Electrodynamics-180-Dr. M. Riara
+2-B.Sc(Geo, General & Elec) & B.Ed (Sci)-SPH 202- Electricity & Magnetism II-180- Dr. L. Munguti
